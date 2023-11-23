@@ -1,12 +1,11 @@
-## praktikum-tugas-6
+## Tugas 10
 
-## Dokumentasi
+# Home Page
+![image](https://github.com/satrioaryo/tugas10/assets/102373163/01708522-646f-438e-b463-0e08de59a451)
 
-# Halaman Home
-![image](https://github.com/Daffakhaironkhan/praktikum-tugas-6/assets/102291869/d18909fc-5d45-4108-afd5-2f204237f0ee)
+# Page Tambah
+![image](https://github.com/satrioaryo/tugas10/assets/102373163/b749ae67-176c-4059-bcab-e274c596061a)
 
-# Halaman Tambah
-![image](https://github.com/Daffakhaironkhan/praktikum-tugas-6/assets/102291869/a01803f0-aeda-4957-88be-eaad7626d924)
+# Page Edit
+![image](https://github.com/satrioaryo/tugas10/assets/102373163/d82ca793-fe13-49b5-86e3-c0dacfa8fbcd)
 
-# Halaman Edit
-![image](https://github.com/Daffakhaironkhan/praktikum-tugas-6/assets/102291869/d05d1b32-5242-4599-af0f-d550f7664b47)
